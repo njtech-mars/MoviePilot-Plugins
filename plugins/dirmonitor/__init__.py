@@ -741,6 +741,7 @@ class DirMonitor(_PluginBase):
                                                 {'title': '复制', 'value': 'copy'},
                                                 {'title': '硬链接', 'value': 'link'},
                                                 {'title': '软链接', 'value': 'softlink'},
+                                                {'title': '反向软链接', 'value': 'rsoftlink'},
                                                 {'title': 'Rclone复制', 'value': 'rclone_copy'},
                                                 {'title': 'Rclone移动', 'value': 'rclone_move'}
                                             ]
