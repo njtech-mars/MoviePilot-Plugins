@@ -1,0 +1,9 @@
+{
+    "RSoftlinking": {
+        "name": "反向软链接",
+        "description": "根据转移记录，在转移源位置留下一个指向目标位置的软链接",
+        "version": "0.1",
+        "author": "njtech-mars",
+        "level": 1
+    }
+}
